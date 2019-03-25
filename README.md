@@ -2,4 +2,4 @@
 
 ## git demo
 
-**** Modifié de puis GitHub ****
+*** Modifié de puis GitHub ***
